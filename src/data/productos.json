@@ -4,42 +4,41 @@
     "nombre": "Café Espresso",
     "precio": 2.5,
     "descripcion": "Un café intenso y aromático, servido en una pequeña taza para disfrutar de su sabor puro.",
-    "imagen": "/src/assets/images/cafe-espresso.avif"
+    "imagen": "/images/cafe-espresso.avif"
   },
   {
     "id": 2,
     "nombre": "Capuchino",
     "precio": 3.0,
     "descripcion": "Café espresso con leche vaporizada y espuma de leche, perfecto para un comienzo suave.",
-    "imagen": "/src/assets/images/cafe-capuchino.jpg"
+    "imagen": "/images/cafe-capuchino.jpg"
   },
   {
     "id": 3,
     "nombre": "Latte",
     "precio": 3.5,
     "descripcion": "Café suave con leche al vapor, ideal para quienes prefieren una bebida más ligera.",
-    "imagen": "/src/assets/images/latte.jpg"
+    "imagen": "/images/latte.jpg"
   },
   {
     "id": 4,
     "nombre": "Café Guayoyo",
     "precio": 1.0,
     "descripcion": "Café tradicional, suave y de sabor intenso.",
-    "imagen": "/src/assets/images/cafe-guayoyo.jpg"
+    "imagen": "/images/cafe-guayoyo.jpg"
   },
-    {
+  {
     "id": 5,
     "nombre": "Ponquecito",
     "precio": 1.0,
     "descripcion": "Ponquecito esponjoso, perfecto para acompañar tu café.",
-    "imagen": "/src/assets/images/ponquecitos.jpg"
+    "imagen": "/images/ponquecitos.jpg"
   },
   {
     "id": 6,
     "nombre": "Croissant de Queso",
     "precio": 3.0,
     "descripcion": "Croissant relleno de queso, crujiente por fuera y suave por dentro.",
-    "imagen": "/src/assets/images/croissant.jpg"
+    "imagen": "/images/croissant.jpg"
   }
-
 ]
